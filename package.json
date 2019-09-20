@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test for RGB",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuravel22/test-RGB.git"
+  },
+  "author": "Dimas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuravel22/test-RGB/issues"
+  },
+  "homepage": "https://github.com/zhuravel22/test-RGB#readme"
+}
