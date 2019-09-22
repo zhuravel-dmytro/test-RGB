@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/zhuravel22/test-RGB/issues"
   },
-  "homepage": "https://github.com/zhuravel22/test-RGB#readme"
+  "homepage": "https://github.com/zhuravel22/test-RGB#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-less": "^4.0.1",
+    "less": "^3.10.3"
+  }
 }
